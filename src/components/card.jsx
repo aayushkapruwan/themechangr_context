@@ -1,6 +1,6 @@
 export default function Card() {
   return (
-    <div className="relative transition ease-in-out duration-[250] h-[270px] group w-[200px] overflow-hidden rounded-3xl bg-amber-100 dark:bg-slate-400  hover:shadow-xl transition duration-300 hover:shadow-black/60">
+    <div className="relative  ease-in-out  h-[270px] group w-[200px] overflow-hidden rounded-3xl bg-amber-100 dark:bg-slate-400  hover:shadow-xl transition duration-300 hover:shadow-black/60">
       <div className="">
         <img
           src="https://images.pexels.com/photos/29421579/pexels-photo-29421579.jpeg"
